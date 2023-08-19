@@ -92,6 +92,10 @@ body {
   color: var(--white);
 }
 
+.stats_stat-value--uppercase {
+  text-transform: uppercase;
+}
+
 .stats__stat-heading {
   font-family: 'Lexend Deca', sans-serif;
   font-size: 1.2rem;
