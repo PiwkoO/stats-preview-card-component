@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/stats-preview-card-component-dhAaDssNNB)
+- [Live preview](https://piwkoo.github.io/stats-preview-card-component/)
 
 ## My process
 
