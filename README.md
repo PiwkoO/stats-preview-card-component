@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to connect image with background color to create overlay on this image without the necessity of using pseudo-elements.
+I learned how to connect images with a background color to create an overlay on this image without the necessity of using pseudo-elements.
 
 To see how you can add code snippets, see below:
 
@@ -57,11 +57,11 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-As always I want to sharpen my skills by creating a lot of different project. It doesn't matter how small it is because every single line of code can help in the future. Especially when we work with libraries or frameworks like React, Vue or Angular and create single components like in this project which we can later reuse.
+As always I want to sharpen my skills by creating a lot of different projects. It doesn't matter how small it is because every single line of code can help in the future. Especially when we work with libraries or frameworks like React, Vue, or Angular and create single components like in this project which we can later reuse.
 
 ### Useful resources
 
-- [Mozilla developer](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode) - As always mozilla documentation is really handy when it comes to web development. This time it helped me better understand how I can manipulate background using blend-mode. 
+- [Mozilla developer](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode) - As always Mozilla documentation is really handy when it comes to web development. This time it helped me better understand how I can manipulate the background using blend-mode. 
 
 ## Author
 
